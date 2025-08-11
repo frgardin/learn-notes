@@ -10,4 +10,4 @@ Three main uses of BPF:
 
 - networking
 - observability
-- securityg
+- security
