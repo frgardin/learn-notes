@@ -1,7 +1,7 @@
- # Operating Systems Learn
- 
- ## Objective
- 
- This repository is dedicated to learning and exploring concepts related to operating systems. The main goal is to provide a space for studying, experimenting, and understanding how operating systems work.
- 
- Feel free to add notes, code samples, exercises, and resources that help deepen your knowledge of operating systems.
+# Learn Notes
+
+## Objective
+
+This repository is a general space for learning and documenting a variety of topics. Use it to collect notes, code samples, exercises, and resources from any subject you are studying or exploring.
+
+Feel free to organize content by topic, add new folders, and contribute materials that help deepen your understanding across different areas.
