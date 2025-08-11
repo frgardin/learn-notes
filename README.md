@@ -27,3 +27,10 @@ This file contains a suggested study plan for the week. Adjust topics and time s
 - Rotate topics each week to cover more subjects.
 - Set specific goals for each session.
 - Track your progress and update the plan regularly.
+
+## Common Studies
+
+Every day there are two obrigatory activities:
+
+- Read 15 minutes of Start-Up Enxuta
+- Study algorithms
